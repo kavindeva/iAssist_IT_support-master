@@ -1,0 +1,17 @@
+{
+    "MediaContentType0": "image/jpeg",
+    "SmsMessageSid": "MMbc823e9ffcec0b0fd186fb73cd1a025d",
+    "NumMedia": "1",
+    "ProfileName": "Kavin Devarajan",
+    "SmsSid": "MMbc823e9ffcec0b0fd186fb73cd1a025d",
+    "WaId": "918903600437",
+    "SmsStatus": "received",
+    "Body": "",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MMbc823e9ffcec0b0fd186fb73cd1a025d",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+918903600437",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MMbc823e9ffcec0b0fd186fb73cd1a025d/Media/MEa7f3708ec617175483bceb8330719c74",
+    "ApiVersion": "2010-04-01"
+}

@@ -1,0 +1,75 @@
+Problem description,Solution
+Actual date(s) in the future(check  parameters ),Change time in the Activity
+Login unsuccessful,Order is already in Closed/TECO status in SAP.
+Error while checking and storing +FILE NAME(Eg:- FOC checklist),Attached document is moved or renamed in the previous location. Inform user to rename/place the file in the same folder while thay linked to order.
+Login unsuccessful,SAP Password of the user is expired or locked.
+problem in BAPI create ZPM-FM DONOTIFICATION while going to make the method,Production Issue. Fixed
+site cant be reached -sappdeapp.hec.dewa.gov.ae44301,No Internet Connection/ VPN Issue
+__0000000000001 confirmation are incorrect or details parameters DETAILS RETURN Actual date(s) in the future(check  parameters ),Time confirmation entered for the future date. Inform the user to edit and change.
+error ssl=0x700c288 I/O error during call systems system caused connection abort,No Network/VPN/SMP Server Down
+"In maps while searching location ""result not found something missing""",NA
+Communication Error with IP,No Network/VPN/SMP Server Down
+BAPI call must have a save file or dialog method,Order is already in Closed/TECO status in SAP.
+Activitiesupdatesteplet:Time collision (time) with 00:00,Issue due to the CATS entry time collision with other entry. Inform user to change the time according to the past CATS approved entries.
+Failed to connect to 10.12.199.105(port 8085) from (port ---) connection failed ECONNBORTED software connection abort),No Network/VPN/SMP Server Down
+Angel connection failed,No Network/VPN/SMP Server Down
+outlook login issue (server timeout),NA
+Activitiesupdatesteplet- system status CNF 0080005144 0907 is active,The Activity is already in confirmed status. Inform user to discard that activity.
+Activitiesupdatesteplet- A confirmation function can only be executed in dialog mode,Production Issue. Fixed
+Reserved quantity execeded by 2EA,Material quantity entered is more the available quantity
+SSL handshake aborted ssl=0x71----I/O error during system call,No Network/VPN/SMP Server Down
+Notificationcompletesteplet - notification 420194077 cannot be completed,Notification is already in Closed Status in SAP. Discard the Notification.
+Attachmentcapturesteplet- object SMQMEL does not exist,Application Bug. Fixed
+NotificationACCPsteplet-05.08.2020 23 00 26 invalid user status ACCP,Application Bug. Fixed
+java.security.cert.certpathvalidator Expectation : Trust anchor for certification path not found,Install Certificate for SMP
+server cannot synchronize with client definitions,Agentry application version in the device does not have the same version in the SMP server. Install latest version application.
+unexpected disconnection from server,No Network/VPN/SMP Server Down
+NotificationCLSDsteplet-no authorization for activating user status SITV,No Authorization to change the Notification Status. Redirect to Functional Consultant.
+getworkordersteplet-com.syclo.sap.component.notification,Application Bug. Fixed
+attempt to call a UNI native method after a java object c++,Server Issue. Restart SMP.
+Java rmiRemoteExpectation connect to message server host failed,Server Issue. Restart SMP.
+SSL signature verification failure,Install Certificate for SMP
+LaborAddsteplet 0000000001 confirmation are  incorrect for details see parameter detail return,Time confirmation entered for the future date. Inform the user to edit and change.
+No backends loaded please check server startup logs,SMP Server Application not connected to SAP. Check SAP is down?
+"Sending InspRoundsMeasuring Point reading, mesuring point inactive","The entered measuring point is inactive in SAP. Find the measuring point in SMP logs and then in agentry application, select that measuring point and click on skip reading option."
+NotificationPoststeplet user status INIT is active,
+NotificationPDFststeplet no authorization for maintenance planner group T02,No Authorization to change the Notification. Redirect to Functional Consultant.
+Cannot save main object (data files cannot be read only),NA
+client locked out -error validation user password,User is not authorized to use Mobility. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.
+LaborAddsteplet  no commitment item entered in item 0001----,Application Bug. Fixed
+Updates bixy home,NA
+one or more timesheet entries has an error was not accepted into sap,"In CATS, there is some entries which are rejected by SAP with errors. Inform user to check the error and rectify the CATS Entry."
+while signin an internal error occurred,Reset Client in Agentry About Screen and login again
+Failed to send audit record,No Network/VPN/SMP Server Down
+No business logic was loaded,Reset Client in Agentry About Screen and login again.
+LaborAddsteplet problem in BAPi create (ZPM-DOWORKORDERCONFG,Time confirmation entered for the future date. Inform the user to edit and change.
+Readerror ssl=0xc8661228: I/O error during system call,No Network/VPN/SMP Server Down
+GetworkordersSteplet: Order is currently processed,Work order is opened in SAP in change mode. The Coordinator might have opened the same order. Inform the user to wait and sync after sometime or contact their schedular.
+ActivitiesUpdatessteplet - no remaining duration finish possible for final confirmation,Activity is confirmed already in SAP. Discard activity
+ActivitiesUpdatessteplet - 30.11.0002 is before validity period of factory calendar check date,Date issue with that Activity in SAP. Inform user to check the date in SAP.
+ActivitiesUpdateSteplet - you have no authorization for transaction,User is not authorized to use Activity Confirmation in mobile. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.
+error due to previous login attempt in progress please try again,Already login was interrupted in SMP. Wait for 10-15 minutes. Then try again.
+Invalid user or password repeat logon),Password is wrong. Inform user to reset the password in my portal or contact 51555.
+Could not validate the username or password,User is not authorized to use Mobility. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.
+Requesting public key from server unable resolve dewaserv1576--------- no addresses associated,No Network/VPN/SMP Server Down
+Laboraddstep- no price could be determined for internal activity P0207,Issue in SAP Activity Type and Cost. Contact functional consultant.
+DocumentSyncRequest steplet- Classname required,Production Issue. Fixed
+NotificationCOMsteplet- while try to invoke the method,Production Issue. Fixed
+Worlordersteplet status of order 520566956 does not allow,The work order is already closed in SAP. Discard the order.
+the client not logged into the server,No Network/VPN/SMP Server Down
+MasterData connection failed -Ending transmission,No Network/VPN/SMP Server Down
+NotificationPoststeplet Enter at least once cause text,Production Issue. Fixed
+Order is locked and cannot be changed,Someone else opened the same order in SAP in change mode. Inform the user to contact their coordinator.
+JCO ERROR COMMUNICATION connect to SAP gateway failed,SAP is down. Contact Functional & Basis Consultant.
+Attempt to virtual method javax net ssl key manager,Install Certificate for SMP
+No RFC authorization for function module,No Authorization for RFC. Redirect to Functional Consultant.
+Failed to apply transaction,Production Issue. Fixed
+NotificationPoststeps-Please select your sample type,Production Issue. Fixed
+GetWCDSteplet- while try to load from a null object array returned form,Check whether user parameters are available in SAP.
+AttachementCaptured Steplet- file extension Jpeg not allowed for workstation application 3GP,Production Issue. Fixed
+New entry is not possible since notification already completed,Notification is already in Closed Status in SAP. Discard the Notification.
+You dont have the authorization for MRP group T01in plant 1200,No Authorization for Material. Redirect to Functional Consultant.
+The link of SAP object is not allowed for document type Z60,Production Issue. Fixed
+No authorization for Planing plant 1400,No Authorization for the plant 1400. Redirect to Functional Consultant.
+Define an output device in your user master data,PDF generation issue. Follow the document attached on the right side
+com.syclo.sap.compaonent.notifcation.object.notification. Method .<int> () not found,Production Issue. Fixed

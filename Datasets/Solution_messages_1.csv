@@ -1,0 +1,74 @@
+Change time in the Activity,23
+Order is already in Closed/TECO status in SAP.,24
+Attached document is moved or renamed in the previous location. Inform user to rename/place the file in the same folder while they linked to order.,25
+SAP Password of the user is expired or locked.,24
+Production Issue. Fixed,26
+No Internet Connection/ VPN Issue,27
+Time confirmation entered for the future date. Inform the user to edit and change.,28
+No Network/VPN/SMP Server Down,29
+No solution,30
+No Network/VPN/SMP Server Down,31
+Order is already in Closed/TECO status in SAP.,32
+Issue due to the CATS entry time collision with other entry. Inform user to change the time according to the past CATS approved entries.,33
+No Network/VPN/SMP Server Down,34
+No Network/VPN/SMP Server Down,35
+No solution,36
+The Activity is already in confirmed status. Inform user to discard that activity.,37
+Production Issue. Fixed,38
+Material quantity entered is more the available quantity,39
+No Network/VPN/SMP Server Down,40
+Notification is already in Closed Status in SAP. Discard the Notification.,41
+Application Bug. Fixed,42
+Application Bug. Fixed,43
+Install Certificate for SMP,44
+Agentry application version in the device does not have the same version in the SMP server. Install latest version application.,45
+No Network/VPN/SMP Server Down,46
+No Authorization to change the Notification Status. Redirect to Functional Consultant.,47
+Application Bug. Fixed,48
+Server Issue. Restart SMP.,49
+Server Issue. Restart SMP.,50
+Install Certificate for SMP,51
+Time confirmation entered for the future date. Inform the user to edit and change.,52
+SMP Server Application not connected to SAP. Check SAP is down?,53
+"The entered measuring point is inactive in SAP. Find the measuring point in SMP logs and then in agentry application, select that measuring point and click on skip reading option.",54
+No solution,55
+No Authorization to change the Notification. Redirect to Functional Consultant.,56
+No solution,57
+User is not authorized to use Mobility. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.,58
+Application Bug. Fixed,59
+No solution,60
+"In CATS, there is some entries which are rejected by SAP with errors. Inform user to check the error and rectify the CATS Entry.",61
+Reset Client in Agentry About Screen and login again,62
+No Network/VPN/SMP Server Down,63
+Reset Client in Agentry About Screen and login again.,64
+Time confirmation entered for the future date. Inform the user to edit and change.,65
+No Network/VPN/SMP Server Down,66
+Work order is opened in SAP in change mode. The Coordinator might have opened the same order. Inform the user to wait and sync after sometime or contact their scheduler.,67
+Activity is confirmed already in SAP. Discard activity,68
+Date issue with that Activity in SAP. Inform user to check the date in SAP.,69
+User is not authorized to use Activity Confirmation in mobile. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.,70
+Already login was interrupted in SMP. Wait for 10-15 minutes. Then try again.,71
+Password is wrong. Inform user to reset the password in my portal or contact 51555.,72
+User is not authorized to use Mobility. Inform user to get proper authorization in SAP. Redirect to functional in case if the user asks for the role.,73
+No Network/VPN/SMP Server Down,74
+Issue in SAP Activity Type and Cost. Contact functional consultant.,75
+Production Issue. Fixed,76
+Production Issue. Fixed,77
+The work order is already closed in SAP. Discard the order.,78
+No Network/VPN/SMP Server Down,79
+No Network/VPN/SMP Server Down,80
+Production Issue. Fixed,81
+Someone else opened the same order in SAP in change mode. Inform the user to contact their coordinator.,82
+SAP is down. Contact Functional & Basis Consultant.,83
+Install Certificate for SMP,84
+No Authorization for RFC. Redirect to Functional Consultant.,85
+Production Issue. Fixed,86
+Production Issue. Fixed,87
+Check whether user parameters are available in SAP.,88
+Production Issue. Fixed,89
+Notification is already in Closed Status in SAP. Discard the Notification.,90
+No Authorization for Material. Redirect to Functional Consultant.,91
+Production Issue. Fixed,92
+No Authorization for the plant 1400. Redirect to Functional Consultant.,93
+PDF generation issue. Follow the document attached on the right side,94
+Production Issue. Fixed,95

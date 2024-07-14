@@ -1,0 +1,17 @@
+{
+    "MediaContentType0": "image/jpeg",
+    "SmsMessageSid": "MM56aac907727e0a7b452aecddd3e5b8cc",
+    "NumMedia": "1",
+    "ProfileName": "Looser\ud83c\udfad",
+    "SmsSid": "MM56aac907727e0a7b452aecddd3e5b8cc",
+    "WaId": "918637654947",
+    "SmsStatus": "received",
+    "Body": "",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MM56aac907727e0a7b452aecddd3e5b8cc",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+918637654947",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MM56aac907727e0a7b452aecddd3e5b8cc/Media/ME619127e9d43636c5ba3776f23dffdf83",
+    "ApiVersion": "2010-04-01"
+}

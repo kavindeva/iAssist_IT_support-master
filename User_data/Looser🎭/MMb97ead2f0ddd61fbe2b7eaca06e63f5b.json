@@ -1,0 +1,17 @@
+{
+    "MediaContentType0": "audio/ogg",
+    "SmsMessageSid": "MMb97ead2f0ddd61fbe2b7eaca06e63f5b",
+    "NumMedia": "1",
+    "ProfileName": "Looser\ud83c\udfad",
+    "SmsSid": "MMb97ead2f0ddd61fbe2b7eaca06e63f5b",
+    "WaId": "918637654947",
+    "SmsStatus": "received",
+    "Body": "",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MMb97ead2f0ddd61fbe2b7eaca06e63f5b",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+918637654947",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MMb97ead2f0ddd61fbe2b7eaca06e63f5b/Media/MEb81a2206b06106dd5e0a1dcc72d5feed",
+    "ApiVersion": "2010-04-01"
+}

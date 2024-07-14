@@ -1,0 +1,96 @@
+Problem Description,Resolution
+Notification 000220413194 is not locked,1
+Order 520610560 is locked and cannot be changed,2
+BAPI call must have a SAVE or DIALOG method,3
+"The context with the session id [session-4771] scope type [null] is currently used in thread Thread-418268 [0x6b5fd].Current thread is SAPWM64ker 10032 Thread [0x7a8].),  |",4
+21.08.2020 11:46:39  - Invalid User status E0017 for mobile status ZMMC,5
+Error while checking in and storing: Pk3086B.pdf,6
+You are not authorized for Create Document with document type Z60,7
+Notification 210298800 locked by E0021813,8
+User E0028079 is currently processing order 520587639,9
+"Date 01.01.0001 is invalid (check entry)),  |",10
+"System status CNF 000800002966 0850 is active),  |",11
+"Time collision 08:00 - 09:00 with 08:00 - 09:00),  |",12
+"Time collision 23:15 - 07:30 with 23:15 - 07:30), More than 24 hours entered for personnel number 99007036 on 10.08.2020 |",13
+"Order 800005478 is already being processed by E0019099),  |",14
+"Actual date(s) is in the future (check parameters)),  |",15
+"You have no authorization in plant 1200 for order type TP01),  |",16
+"No remaining duration/forecast finish possible for final confirmation),  |",17
+"A confirmation function can only be executed in dialog mode),  |",18
+User status E0006 is not allowed (OR000550087354),19
+Status D804 is not allowed (QNF 300710227),20
+"Error when opening an RFC connection (CPIC-CALL: 'ThSAPOCMINIT', communication rc: CM_RESOURCE_FAILURE_RETRY (cmRc=27), taskhandler rc: CONN_EXCEEDED (thRc=230)), No f). |",21
+"00000000000000000001 confirmations are incorrect. For details see parameter DETAIL_RETURN), Order 520564571 is already being processed by E0027194 |",22
+Actual date(s) in the future(check  parameters ),23
+Login unsuccessful,24
+Error while checking and storing +FILE NAME(Eg:- FOC checklist),25
+problem in BAPI create ZPM-FM DONOTIFICATION while going to make the method,26
+site cant be reached -sappdeapp.hec.dewa.gov.ae44301,27
+__0000000000001 confirmation are incorrect or details parameters DETAILS RETURN Actual date(s) in the future(check  parameters ),28
+error ssl=0x700c288 I/O error during call systems system caused connection abort,29
+"In maps while searching location ""result not found something missing""",30
+Communication Error with IP,31
+BAPI call must have a save file or dialog method,32
+Activitiesupdatesteplet:Time collision (time) with 00:00,33
+Failed to connect to 10.12.199.105(port 8085) from (port ---) connection failed ECONNBORTED software connection abort),34
+Angel connection failed,35
+outlook login issue (server timeout),36
+Activitiesupdatesteplet- system status CNF 0080005144 0907 is active,37
+Activitiesupdatesteplet- A confirmation function can only be executed in dialog mode,38
+Reserved quantity execeded by 2EA,39
+SSL handshake aborted ssl=0x71----I/O error during system call,40
+Notificationcompletesteplet - notification 420194077 cannot be completed,41
+Attachmentcapturesteplet- object SMQMEL does not exist,42
+NotificationACCPsteplet-05.08.2020 23 00 26 invalid user status ACCP,43
+java.security.cert.certpathvalidator Expectation : Trust anchor for certification path not found,44
+server cannot synchronize with client definitions,45
+unexpected disconnection from server,46
+NotificationCLSDsteplet-no authorization for activating user status SITV,47
+getworkordersteplet-com.syclo.sap.component.notification,48
+attempt to call a UNI native method after a java object c++,49
+Java rmiRemoteExpectation connect to message server host failed,50
+SSL signature verification failure,51
+LaborAddsteplet 0000000001 confirmation are  incorrect for details see parameter detail return,52
+No backends loaded please check server startup logs,53
+"Sending InspRoundsMeasuring Point reading, mesuring point inactive",54
+NotificationPoststeplet user status INIT is active,55
+NotificationPDFststeplet no authorization for maintenance planner group T02,56
+Cannot save main object (data files cannot be read only),57
+client locked out -error validation user password,58
+LaborAddsteplet  no commitment item entered in item 0001----,59
+Updates bixy home,60
+one or more timesheet entries has an error was not accepted into sap,61
+while signin an internal error occurred,62
+Failed to send audit record,63
+No business logic was loaded,64
+LaborAddsteplet problem in BAPi create (ZPM-DOWORKORDERCONFG,65
+Readerror ssl=0xc8661228: I/O error during system call,66
+GetworkordersSteplet: Order is currently processed,67
+ActivitiesUpdatessteplet - no remaining duration finish possible for final confirmation,68
+ActivitiesUpdatessteplet - 30.11.0002 is before validity period of factory calendar check date,69
+ActivitiesUpdateSteplet - you have no authorization for transaction,70
+error due to previous login attempt in progress please try again,71
+Invalid user or password repeat logon),72
+Could not validate the username or password,73
+Requesting public key from server unable resolve dewaserv1576--------- no addresses associated,74
+Laboraddstep- no price could be determined for internal activity P0207,75
+DocumentSyncRequest steplet- Classname required,76
+NotificationCOMsteplet- while try to invoke the method,77
+Worlordersteplet status of order 520566956 does not allow,78
+the client not logged into the server,79
+MasterData connection failed -Ending transmission,80
+NotificationPoststeplet Enter at least once cause text,81
+Order is locked and cannot be changed,82
+JCO ERROR COMMUNICATION connect to SAP gateway failed,83
+Attempt to virtual method javax net ssl key manager,84
+No RFC authorization for function module,85
+Failed to apply transaction,86
+NotificationPoststeps-Please select your sample type,87
+GetWCDSteplet- while try to load from a null object array returned form,88
+AttachementCaptured Steplet- file extension Jpeg not allowed for workstation application 3GP,89
+New entry is not possible since notification already completed,90
+You dont have the authorization for MRP group T01in plant 1200,91
+The link of SAP object is not allowed for document type Z60,92
+No authorization for Planing plant 1400,93
+Define an output device in your user master data,94
+com.syclo.sap.compaonent.notifcation.object.notification. Method .<int> () not found,95

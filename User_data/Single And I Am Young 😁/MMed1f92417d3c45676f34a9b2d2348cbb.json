@@ -1,0 +1,17 @@
+{
+    "MediaContentType0": "image/jpeg",
+    "SmsMessageSid": "MMed1f92417d3c45676f34a9b2d2348cbb",
+    "NumMedia": "1",
+    "ProfileName": "Single And I Am Young \ud83d\ude01",
+    "SmsSid": "MMed1f92417d3c45676f34a9b2d2348cbb",
+    "WaId": "918637654947",
+    "SmsStatus": "received",
+    "Body": "",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MMed1f92417d3c45676f34a9b2d2348cbb",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+918637654947",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MMed1f92417d3c45676f34a9b2d2348cbb/Media/MEdec37c2ee3616bec95ba180689b7d37c",
+    "ApiVersion": "2010-04-01"
+}

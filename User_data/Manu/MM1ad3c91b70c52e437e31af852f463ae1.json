@@ -1,0 +1,18 @@
+{
+    "MediaContentType0": "audio/ogg",
+    "SmsMessageSid": "MM1ad3c91b70c52e437e31af852f463ae1",
+    "NumMedia": "1",
+    "ProfileName": "Manu",
+    "SmsSid": "MM1ad3c91b70c52e437e31af852f463ae1",
+    "WaId": "919080857483",
+    "SmsStatus": "received",
+    "Body": "",
+    "Forwarded": "true",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MM1ad3c91b70c52e437e31af852f463ae1",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+919080857483",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MM1ad3c91b70c52e437e31af852f463ae1/Media/ME48d34f659db461495474c3270297557f",
+    "ApiVersion": "2010-04-01"
+}

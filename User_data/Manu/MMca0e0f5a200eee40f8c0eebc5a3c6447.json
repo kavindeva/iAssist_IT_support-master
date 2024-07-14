@@ -1,0 +1,18 @@
+{
+    "MediaContentType0": "image/jpeg",
+    "SmsMessageSid": "MMca0e0f5a200eee40f8c0eebc5a3c6447",
+    "NumMedia": "1",
+    "ProfileName": "Manu",
+    "SmsSid": "MMca0e0f5a200eee40f8c0eebc5a3c6447",
+    "WaId": "919080857483",
+    "SmsStatus": "received",
+    "Body": "",
+    "Forwarded": "true",
+    "To": "whatsapp:+14155238886",
+    "NumSegments": "1",
+    "MessageSid": "MMca0e0f5a200eee40f8c0eebc5a3c6447",
+    "AccountSid": "AC16c1efc7c0a07195abe8b0527d87357f",
+    "From": "whatsapp:+919080857483",
+    "MediaUrl0": "https://api.twilio.com/2010-04-01/Accounts/AC16c1efc7c0a07195abe8b0527d87357f/Messages/MMca0e0f5a200eee40f8c0eebc5a3c6447/Media/ME9360bab115ba4f8daa87e2f317aeb232",
+    "ApiVersion": "2010-04-01"
+}

@@ -1,0 +1,5 @@
+"The context with the session id [session-17] scope type [null] is currently used in thread Thread-19138 [0x4eba].Current thread is SAPWM64ker 10100 Thread [0x34c4].),  |",4
+Order 520551605 is currently being processed .,2
+Order 1000502275 is currently being processed .,2
+Notification 000220413194 is not locked,1
+Order 510610956 is locked and cannot be changed,2
